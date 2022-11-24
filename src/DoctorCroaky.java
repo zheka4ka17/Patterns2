@@ -1,6 +1,6 @@
 import java.lang.reflect.Array;
 import java.util.ArrayList;
-
+//фасад
 public class DoctorCroaky {
     public static void main(String[] args) {
         Story.tell();
